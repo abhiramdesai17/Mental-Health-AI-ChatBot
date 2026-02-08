@@ -10,6 +10,8 @@ Runo is not a therapist, nor does it attempt to diagnose or treat mental health 
 
 This project represents a **responsible application of Generative AI in mental health**, with safety, trust, and user well-being at its core.
 
+# ✅ Product Requirements & Roadmap
+
 ## 📌 Product Overview
 
 Mental health support is often difficult to access when people need it most. Long wait times, high costs, social stigma, and fear of judgment prevent many individuals from seeking timely help. While digital tools exist, they frequently lack empathy, context, or safety safeguards.
@@ -150,6 +152,8 @@ Safety metrics are treated as **first-class product KPIs**, not secondary signal
 - Clear escalation paths and system boundaries  
 
 Responsible AI is **a product decision**, not an afterthought.
+
+# 🏗️ High-Level Architecture & Technical Specifications
 
 ## Architecture
 
