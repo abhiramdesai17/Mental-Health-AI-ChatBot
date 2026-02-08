@@ -1,10 +1,155 @@
-# Mental Health AI 💚
+# Mental Health AI 💚 - An AI-Powered Conversational Support Platform
 
-## Meet Runo
+## Meet Runo 🤍
 
 ![image](https://github.com/manjunath-ab/AI4MentalHealth/assets/114537365/07fe09b9-f688-4bfd-b893-9b139d48ecee)
 
-Runo is our friendly chatbot, designed to provide a supportive and non-judgmental space for users seeking mental health support and information.
+**Runo** is a friendly, empathetic AI companion designed to provide users with a safe, non-judgmental space to talk about their thoughts, emotions, and mental well-being.
+
+Runo is not a therapist, nor does it attempt to diagnose or treat mental health conditions. Instead, it acts as a **first line of emotional support** — a place where users can feel heard, reflect on their feelings, and be gently guided toward professional help when appropriate.
+
+This project represents a **responsible application of Generative AI in mental health**, with safety, trust, and user well-being at its core.
+
+## 📌 Product Overview
+
+Mental health support is often difficult to access when people need it most. Long wait times, high costs, social stigma, and fear of judgment prevent many individuals from seeking timely help. While digital tools exist, they frequently lack empathy, context, or safety safeguards.
+
+**Mental Health AI** is a conversational AI platform built to lower the barrier to mental health support. Through natural language conversations, the system offers empathetic responses grounded in trusted mental health knowledge while maintaining clear boundaries around safety and escalation.
+
+The product is designed to:
+- Provide immediate, emotionally supportive conversations
+- Encourage reflection and self-awareness
+- Help users take the next step toward professional care when needed
+
+## ❗ The Problem
+
+Mental health systems face several systemic challenges:
+
+- 🕒 Access to therapists is limited and often delayed  
+- 🧠 Many users avoid seeking help due to stigma or fear of judgment  
+- 📉 Early emotional distress frequently goes unnoticed  
+- ⚠️ AI systems risk hallucinations, unsafe advice, or lack of empathy  
+
+At the same time:
+- Static resources (blogs, helplines) lack interaction
+- Generic chatbots fail to understand emotional nuance
+- Fully automated systems cannot safely replace human care
+
+There is a clear need for a **safe, empathetic, and scalable AI system** that supports users emotionally while respecting the seriousness of mental health care.
+
+## 🌱 Product Vision
+
+The vision of Mental Health AI is to become a **trusted first point of contact for mental well-being**.
+
+Rather than replacing therapists, the platform focuses on:
+- Emotional validation
+- Thoughtful, grounded responses
+- Responsible guidance toward human care
+
+Over time, this product can evolve into a broader ecosystem that connects users, clinicians, and care providers through ethically designed AI workflows.
+
+## 🎯 Target Users
+
+**Primary Users**
+- Individuals experiencing stress, anxiety, loneliness, or emotional distress
+- Users seeking a private, judgment-free space to talk
+
+**Secondary Users**
+- Therapists and mental health professionals
+- Platform administrators and care coordinators
+
+## 🚀 Minimum Viable Product (MVP)
+
+The MVP is designed to validate one core assumption:
+
+> *Users find value in an empathetic AI conversation that is grounded in trusted mental health knowledge and designed with safety-first principles.*
+
+### MVP Capabilities
+
+- 💬 Natural language conversation with an empathetic tone  
+- 📚 Responses grounded in a curated mental health knowledge base  
+- 🧠 Context-aware conversations that maintain memory across turns  
+- 🚨 Safe escalation to professional care through appointment scheduling  
+- 📊 Administrative visibility into usage and engagement  
+
+### Explicit Non-Goals
+
+The system intentionally does **not**:
+- Diagnose mental health conditions  
+- Replace licensed professionals  
+- Provide emergency or crisis intervention  
+- Offer medical or prescriptive advice  
+
+Clear boundaries are a **core product requirement**.
+
+## 🧭 User Experience Flow (High-Level)
+
+The user experience is designed to feel safe, simple, and empowering.
+
+1. **Engage**  
+   Users begin a conversation with Runo without friction or judgment.
+
+2. **Express**  
+   Users share thoughts, feelings, or concerns in their own words.
+
+3. **Support**  
+   Runo responds empathetically, using grounded knowledge and conversational context.
+
+4. **Guide**  
+   If emotional distress increases, the system gently suggests additional support.
+
+5. **Escalate (When Needed)**  
+   Users can schedule an appointment with a professional, handled seamlessly.
+
+This flow prioritizes **emotional safety, user agency, and trust**.
+
+
+## 📈 Measuring Success
+
+Success is evaluated across three dimensions: **engagement, safety, and trust**.
+
+### User Engagement
+- 💬 Session length and return usage
+- 📆 Appointment scheduling rate
+- 🧠 Self-reported usefulness
+
+### Safety & Quality
+- 🚨 Hallucination rate
+- ⚖️ Bias and toxicity scores
+- 🎯 Answer relevance
+
+### Operational Health
+- ⏱ System reliability
+- 📊 Dashboard accuracy
+
+Safety metrics are treated as **first-class product KPIs**, not secondary signals.
+
+## 🗺️ Product Roadmap
+
+### Phase 1 — MVP (Current)
+- Safe conversational support
+- Knowledge-grounded responses
+- Appointment scheduling
+- Admin analytics dashboard
+
+### Phase 2 — Trust & Personalization
+- Improved long-term context handling
+- Personalized reflection patterns
+- Therapist feedback loops
+
+### Phase 3 — Ecosystem Expansion
+- Integration with care networks
+- Outcome-based insights
+- Governance and compliance enhancements
+
+## 🔐 Ethical & Safety Principles
+
+- AI augments, not replaces, human care  
+- Responses are grounded in vetted sources  
+- Continuous evaluation for hallucination, bias, and toxicity  
+- Clear escalation paths and system boundaries  
+
+Responsible AI is **a product decision**, not an afterthought.
 
 ## Architecture
 
